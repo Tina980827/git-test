@@ -19,5 +19,6 @@ public class GItTest {
         System.out.println("gitee test4!");
         System.out.println("gitee test4!-hot fix");
         System.out.println("master test");
+        System.out.println("gitee test4!-hot fix text");
     }
 }
